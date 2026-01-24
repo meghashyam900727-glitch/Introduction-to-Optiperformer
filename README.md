@@ -37,5 +37,11 @@ The system is *instrumented* with:
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 
 ---
+## TABULATION:
+![WhatsApp Image 2026-01-24 at 13 46 47](https://github.com/user-attachments/assets/5fe8a320-b71a-4ad7-8037-7f8f25524491)
+## Result:
+
+Thus,The Introduction-to-Optiperformer is calculated and output is verified.
+
 
 
