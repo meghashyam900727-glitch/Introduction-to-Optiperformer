@@ -39,8 +39,9 @@ The system is *instrumented* with:
 ---
 ## TABULATION:
 <img width="1280" height="962" alt="image" src="https://github.com/user-attachments/assets/89e2706f-80a7-43d8-a055-cc2be44d9e38" />
-# result:
-Thus,The  Introduction-to-Optiperformer is calculated and output is verified.
+## result:
+
+**Thus,The  Introduction-to-Optiperformer is calculated and output is verified.**
 
 
 
